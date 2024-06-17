@@ -1,0 +1,103 @@
+body{
+    background-color: #347D0D;
+}
+
+
+
+img{
+    width: 300px;
+    height: 250px;
+    border: solid 1px;
+    margin-left: 0.5%;
+    border-radius: 2%;
+    box-shadow: 10px 10px 5px #02020277;
+    margin-right: 20px;
+
+}
+
+.Galeria{
+    align-items: center;
+    justify-content: center;
+    margin: auto; 
+    
+}
+
+.Fileira1{
+    height: 300px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    border: solid 0px;
+    width: 928px;
+    margin: auto;
+    display: flex;
+    margin-bottom: 20px;
+}
+    
+
+h1{
+    margin-bottom: -6%;
+    font-size: 60px;  
+    text-align: center;
+    align-items: center;
+}
+
+.Introdução{
+    text-align: center;
+    text-justify: center;
+    align-items: center;
+    margin: auto;
+    align-items: center;
+    width: 25%;
+    height: 150px;
+    margin-bottom: -5%;
+}
+
+.Explicação{
+    text-align: center;
+    text-justify: center;
+    align-items: center;
+    margin: auto;
+    font-size: 20px;
+    margin-top: -5%;
+}
+
+.explicação{
+    width: 50%;
+    text-align: center;
+    text-justify: center;
+    align-items: center;
+    margin: auto;
+    margin-bottom: 4%;
+}
+
+.Porque{
+    margin-bottom: 0%;
+    font-size: 40px;
+}
+
+.fileira2{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    border: solid 0px;
+    width: 928px;
+    margin: auto;
+    display: flex;
+}
+
+.Titulofotos{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: -1.5%;
+    margin-bottom: -1.5;
+}
+
+.fotos{
+    display: block;
+}
+
+.macacos{
+    font-size: 20px;
+}
